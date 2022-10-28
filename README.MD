@@ -1,4 +1,4 @@
-# 加入 LoYuNetwork & Reject-Knife Project
+# 加入 LoYuGroup
 
 你需要提交一个issues，然后经过我们的审批（看看是不是机器人）就可以加入我们了！
 
